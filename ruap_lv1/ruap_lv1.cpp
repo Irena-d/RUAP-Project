@@ -6,5 +6,6 @@
 int main()
 {
     std::cout << "Pozdrav iz aplikacije od Irene Dujmenovic!\n";
+    std::cout << "Indeks je: 12312131\n";
 }
 
