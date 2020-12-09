@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ruap_lv1", "ruap_lv1.vcxproj", "{46DD66B2-8278-40F3-82D8-2377C272D297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Debug|x64.ActiveCfg = Debug|x64
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Debug|x64.Build.0 = Debug|x64
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Debug|x86.ActiveCfg = Debug|Win32
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Debug|x86.Build.0 = Debug|Win32
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Release|x64.ActiveCfg = Release|x64
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Release|x64.Build.0 = Release|x64
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Release|x86.ActiveCfg = Release|Win32
+		{46DD66B2-8278-40F3-82D8-2377C272D297}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {281A1241-DB55-4B63-B16D-688EB5819FB6}
+	EndGlobalSection
+EndGlobal
